@@ -1,5 +1,7 @@
 # Wall Bias Lighting
 
+![Photo](./lighting.jpg)
+
 This is a DIY wall bias lighting.
 
 It uses an RGBW LED strip (based on SK6812 LEDs), where every LED can be addressed individually.
